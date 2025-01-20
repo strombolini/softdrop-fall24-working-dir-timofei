@@ -1,1 +1,1 @@
-![ZH_100x100](https://github.com/user-attachments/assets/b7038468-79fa-4a50-965c-6c19a989709c)
+![ZH_HighRes](https://github.com/user-attachments/assets/98d189cf-26aa-4b51-8096-b260300c6b14)
