@@ -1,5 +1,7 @@
 Note: What we do for these heatmaps is take SD + DDB filtered data and look at the 120-130GeV peak compared to rest of data. Given "rest of data" is very little data after DDB and SD cuts, I wouldn't trust these distributions just yet. This is proof of concept and I will sum heatmaps over many higgs producing files.
 
+You can see so far the mMDT (z_cut = 0.1, beta = 0) combination as suggested in the paper is favorable.
+
 Also, the larger plots take long to generate... ~30min-1hr. But this is not a problem as I need only one and then I either plot smaller interesting sections of the heatmap or I find a z_cut/beta combination I like and sum over that specific combination.
 
 
